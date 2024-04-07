@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|c:\\users\\hp\\onedrive - azerbaijan state technical university\\desktop\\exstension1nullable\\extensies\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|solutionrelative:extensies\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\extensies\\integerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|solutionrelative:extensies\\integerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|solutionrelative:enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260506B4-5FA5-4F6A-86A9-636700D8A39F}|Exstension1Nullable.csproj|solutionrelative:enums\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Enums\\Roles.cs",
+              "RelativeToolTip": "Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:40:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weekdays.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Enums\\Weekdays.cs",
+              "RelativeDocumentMoniker": "Enums\\Weekdays.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Enums\\Weekdays.cs",
+              "RelativeToolTip": "Enums\\Weekdays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:26:57.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntegerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Extensies\\IntegerExtensions.cs",
+              "RelativeDocumentMoniker": "Extensies\\IntegerExtensions.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Extensies\\IntegerExtensions.cs",
+              "RelativeToolTip": "Extensies\\IntegerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:11:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:55:23.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Extensies\\StringExtension.cs",
+              "RelativeDocumentMoniker": "Extensies\\StringExtension.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\Exstension1Nullable\\Extensies\\StringExtension.cs",
+              "RelativeToolTip": "Extensies\\StringExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:02:53.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

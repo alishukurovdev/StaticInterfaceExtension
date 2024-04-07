@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\StaticInterfaceExtension\bin\Debug\net6.0\StaticInterfaceExtension.exe
+C:\Users\hp\source\repos\StaticInterfaceExtension\bin\Debug\net6.0\StaticInterfaceExtension.deps.json
+C:\Users\hp\source\repos\StaticInterfaceExtension\bin\Debug\net6.0\StaticInterfaceExtension.runtimeconfig.json
+C:\Users\hp\source\repos\StaticInterfaceExtension\bin\Debug\net6.0\StaticInterfaceExtension.dll
+C:\Users\hp\source\repos\StaticInterfaceExtension\bin\Debug\net6.0\StaticInterfaceExtension.pdb
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.AssemblyInfo.cs
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.dll
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\refint\StaticInterfaceExtension.dll
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.pdb
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\StaticInterfaceExtension.genruntimeconfig.cache
+C:\Users\hp\source\repos\StaticInterfaceExtension\obj\Debug\net6.0\ref\StaticInterfaceExtension.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Sinifff\bin\Debug\net6.0\Sinifff.exe
+C:\Users\hp\source\repos\Sinifff\bin\Debug\net6.0\Sinifff.deps.json
+C:\Users\hp\source\repos\Sinifff\bin\Debug\net6.0\Sinifff.runtimeconfig.json
+C:\Users\hp\source\repos\Sinifff\bin\Debug\net6.0\Sinifff.dll
+C:\Users\hp\source\repos\Sinifff\bin\Debug\net6.0\Sinifff.pdb
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.AssemblyInfo.cs
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.dll
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\refint\Sinifff.dll
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.pdb
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\Sinifff.genruntimeconfig.cache
+C:\Users\hp\source\repos\Sinifff\obj\Debug\net6.0\ref\Sinifff.dll

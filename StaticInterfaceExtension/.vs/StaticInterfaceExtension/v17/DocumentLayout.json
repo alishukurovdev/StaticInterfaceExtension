@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|solutionrelative:extension\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|c:\\users\\hp\\source\\repos\\staticinterfaceextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\model\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|solutionrelative:model\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A178C5AC-AC9B-474E-8E0B-E289B68AD6A0}|StaticInterfaceExtension.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Model\\Group.cs",
+              "RelativeDocumentMoniker": "Model\\Group.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Model\\Group.cs",
+              "RelativeToolTip": "Model\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:47:47.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:32:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Extension\\Helper.cs",
+              "RelativeDocumentMoniker": "Extension\\Helper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Extension\\Helper.cs",
+              "RelativeToolTip": "Extension\\Helper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:31:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\StaticInterfaceExtension\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:23:25.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

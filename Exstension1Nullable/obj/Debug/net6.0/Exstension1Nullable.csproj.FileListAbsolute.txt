@@ -1,0 +1,28 @@
+C:\Users\hp\source\repos\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.exe
+C:\Users\hp\source\repos\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.deps.json
+C:\Users\hp\source\repos\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.runtimeconfig.json
+C:\Users\hp\source\repos\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.dll
+C:\Users\hp\source\repos\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.pdb
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.AssemblyInfo.cs
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.dll
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\refint\Exstension1Nullable.dll
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.pdb
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.genruntimeconfig.cache
+C:\Users\hp\source\repos\Exstension1Nullable\obj\Debug\net6.0\ref\Exstension1Nullable.dll
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.exe
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.deps.json
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.runtimeconfig.json
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.dll
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\bin\Debug\net6.0\Exstension1Nullable.pdb
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.dll
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\refint\Exstension1Nullable.dll
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.pdb
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\Exstension1Nullable.genruntimeconfig.cache
+C:\Users\hp\OneDrive - Azerbaijan State Technical University\Desktop\Exstension1Nullable\obj\Debug\net6.0\ref\Exstension1Nullable.dll
